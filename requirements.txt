@@ -1,7 +1,9 @@
-transformers >= 4.23
 colossalai
 evaluate
+datasets
+torch
 tqdm
+transformers
 scipy
 scikit-learn
-numpy
+ptflops
