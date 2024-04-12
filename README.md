@@ -4,7 +4,6 @@ In different parts of the log, the model is trained using various parallel compu
 
 Regarding the training results, the log shows multiple rounds of training and evaluation using different plugins. At the end of each experiment, the model's performance on the validation set is reported through several metrics, as shown in the table below.
 
-**Table:**
 
 | Plugin           | Accuracy | F1-score | GPU number |
 |------------------|----------|----------|------------|
